@@ -1,4 +1,4 @@
-# Retenetion-Rate-calculation
+# Retention-Rate-calculation
 
 
 create table kolo_users
